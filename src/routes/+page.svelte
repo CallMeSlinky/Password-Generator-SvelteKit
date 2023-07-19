@@ -80,7 +80,7 @@
 			type="button"
 			class="btn absolute top-0 bottom-0 right-0 bg-surface-700 p-4"
 			aria-label="Copy to clipboard"
-			use:clipboard={generatedPassword}><img src={copy} alt="" /></button
+			use:clipboard={generatedPassword}><img src={copy} alt="" width="16" height="16" /></button
 		>
 	</div>
 	<div class="card p-6 space-y-6">
